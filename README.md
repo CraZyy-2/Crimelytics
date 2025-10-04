@@ -1,5 +1,5 @@
 # Crimelytics
-Interactive C#/.NET app for exploring and visualizing global crime statistics.
+Interactive C# app for exploring and visualizing european crime statistics.
 
 Crimelytics is a Windows Forms application developed in C#. The application can be used to analyze the recorded police data of crimes, based on the type of crime, country, and the year the record was recorded. The application is capable of filtering, searching, and utilizes an interactive grid interface for the manipulation of data.  
 
